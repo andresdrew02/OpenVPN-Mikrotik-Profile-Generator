@@ -11,7 +11,7 @@ Este script interactivo te ayuda a generar un archivo de perfil OpenVPN (`.ovpn`
 1. Clona este repositorio`.
 
    ```bash
-   git clone [https://github.com/tu_usuario/generador-openvpn-mikrotik.git](https://github.com/andresdrew02/OpenVPN-Mikrotik-Profile-Generator)
+   git clone https://github.com/andresdrew02/OpenVPN-Mikrotik-Profile-Generator
    ```
 
 2. Navega al directorio donde se encuentra el script.
