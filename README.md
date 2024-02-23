@@ -29,7 +29,7 @@ Este script interactivo te ayuda a generar un archivo de perfil OpenVPN (`.ovpn`
 3. Ejecuta el script Python.
 
    ```bash
-   python main
+   python main.py
    ```
 
 4. Sigue las instrucciones interactivas proporcionadas por el script. Proporciona la información necesaria cuando se te solicite (por ejemplo, IP del servidor OpenVPN, puerto, rutas de certificados, etc.).
